@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/static/css/main.6287c0ee.css",
+    "main.js": "/static/js/main.efe11c5f.js",
+    "static/media/banner3.jpg": "/static/media/banner3.fff1a3161e9a683552fb.jpg",
+    "static/media/banner1.jpg": "/static/media/banner1.9ac42016616422bb0125.jpg",
+    "static/media/banner2.jpg": "/static/media/banner2.b65f36af633fe9a2b44a.jpg",
+    "static/media/Application.webp": "/static/media/Application.debb5dfe8fd30aed4071.webp",
+    "static/media/Fashion.webp": "/static/media/Fashion.9544103f924f3066531c.webp",
+    "static/media/Grocery.webp": "/static/media/Grocery.dc32070acbbdbdc07dc1.webp",
+    "static/media/Toys.webp": "/static/media/Toys.057d2275457af97de570.webp",
+    "static/media/Electronic.webp": "/static/media/Electronic.5b0a908ea73c43706cd8.webp",
+    "static/media/Home.webp": "/static/media/Home.f257dfd9e1dca603cbe0.webp",
+    "index.html": "/index.html",
+    "main.6287c0ee.css.map": "/static/css/main.6287c0ee.css.map",
+    "main.efe11c5f.js.map": "/static/js/main.efe11c5f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6287c0ee.css",
+    "static/js/main.efe11c5f.js"
+  ]
+}
